@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson_2</string>
+    <string name="welcome_text">Welcome to Android!</string>
+    <string name="large_text">Large Text   </string>
+</resources>
